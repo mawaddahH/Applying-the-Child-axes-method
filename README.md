@@ -9,7 +9,7 @@ Assignment 3 W8D5 - SDA - Software QA Bootcamp
 
 
 ## Question
-write 3 or 4 examples for Xpath using the 'child'axes method.
+write 3 or 4 examples for Xpath using the 'child' axes method.
 
 
 ## Answer
@@ -29,7 +29,7 @@ Add them as a library in the classpath of the project
 - _click-reight on the file project >Build path > configure Bild path > Java Build Path > Libraries > classpath > add external JARs > Apply and close_.
 
 ### Third:
-I Opened the website, then write four Xpath using 'Ancestor' axes method.
+I Opened the website, then write four Xpath using 'child' axes method.
 
 - XPath= //div[@class='logo']//child::a
 
